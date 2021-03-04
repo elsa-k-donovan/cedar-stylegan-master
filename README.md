@@ -1,2 +1,2 @@
-# cedar-stylegan-master
+# StyleGan on Cedar
  
